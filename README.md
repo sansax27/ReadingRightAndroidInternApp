@@ -15,4 +15,4 @@ E) Constantly Enhancing The App Functionalities
 I assist in every domain of the app, be it backend or front End.
 
 
-As for the live features, the app which is there on the above link has many features that have been developed by me.The bookmark feature, caching, Revision Feature, Concept and Meanings, handling themes in app, handling navigation in the app are the major ones.
+As for the live features, the app which is there on the above link has many features that have been developed by me.The bookmark feature, caching, Revision Feature, Concept and Meanings, handling themes in app, handling navigation in the app and the most important - The Notes Feature are the major ones.
