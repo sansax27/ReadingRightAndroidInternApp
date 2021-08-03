@@ -1,6 +1,6 @@
 # ReadingRightAndroidInternApp
 
-Reading Right is an Ed-Tech startup with the concept of making reading newspaper a fun habit by providing every required Additional Assets. This repository is made to signify my contrbution to this company as actual repository to which I have contributed is bound by NDA and thereby private. I am part of their core Android Team to build and contribute to their app which can be found on play store as :- https://play.google.com/store/apps/details?id=in.readingright.app. My role owes to the responsibilities that include :-
+Reading Right is an Ed-Tech startup with the concept of making reading newspaper a fun habit by providing every required Additional Assets. This repository is made to signify my contrbution to Android Team of this company as actual repository to which I have contributed is bound by NDA and thereby private. I am part of their core Android Team to build and contribute to their app which can be found on play store as :- https://play.google.com/store/apps/details?id=in.readingright.app. My role owes to the responsibilities that include :-
 
 
 A) To convert Java Code to Kotlin.
